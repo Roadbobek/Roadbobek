@@ -1,6 +1,6 @@
 # **Hi there, I'm Roadbobek 👋**
 
-![Roadbobek's GitHub stats](https://github-readme-stats.vercel.app/api?username=roadbobek&show_icons=true&theme=transparent)
+[![Roadbobek's GitHub stats](https://github-readme-stats.vercel.app/api?username=roadbobek)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me:
 ### Discord: **Roadbobek**
