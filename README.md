@@ -1,5 +1,4 @@
-[[![Roadbobek's GitHub stats](https://github-stats-extended.vercel.app/api?username=roadbobek)](https://github.com/anuraghazra/github-readme-stats)
-](https://github-stats-extended.vercel.app/api?username=Roadbobek&include_all_commits=true&theme=github_dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Roadbobek&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=Roadbobek&include_all_commits=true&theme=github_dark)
 
 ## Contact me:
 ### Discord: **Roadbobek**
