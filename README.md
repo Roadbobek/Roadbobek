@@ -17,7 +17,7 @@
         <img src="https://lanyard.cnrad.dev/api/447226311031652362?theme=light&bg=ff9d94&borderRadius=8px&showDisplayName=true&animatedDecoration=true" alt="Discord Presence" />
       </a>
     </td>
-    <td width="50%" align="left" valign="center">
+    <td width="50%" align="left" valign="top">
       <h2>Contact Me!</h2>
       <p>💬 <b>Discord:</b> Roadbobek</p>
       <p>📷 <b>Instagram:</b> Roadbobek</p>
