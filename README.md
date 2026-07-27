@@ -1,4 +1,8 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Roadbobek&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=Roadbobek&include_all_commits=true&theme=github_dark)
+
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Roadbobek&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=Roadbobek&include_all_commits=true&theme=transparent)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Roadbobek&langs_count=4&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Roadbobek&langs_count=4&theme=transparent)
 
 ## Contact me:
 ### Discord: **Roadbobek**
