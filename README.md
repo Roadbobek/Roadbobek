@@ -7,7 +7,7 @@
     </td>
     <td width="50%" align="center" valign="middle" height="280">
       <a href="https://github.com/Roadbobek">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Roadbobek&langs_count=4&theme=github_dark" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Roadbobek&langs_count=5&theme=github_dark" alt="Top Languages" />
       </a>
     </td>
   </tr>
